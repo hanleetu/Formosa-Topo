@@ -39,19 +39,11 @@
     "y": 84,
     "sdf": true
   },
-  "TRA-sdf": {
-    "height": 42,
-    "pixelRatio": 2,
-    "width": 42,
-    "x": 42,
-    "y": 42,
-    "sdf": true
-  },
   "Toilet": {
     "height": 42,
     "pixelRatio": 2,
     "width": 42,
-    "x": 84,
+    "x": 42,
     "y": 42,
     "sdf": true
   },
@@ -59,8 +51,8 @@
     "height": 42,
     "pixelRatio": 2,
     "width": 42,
-    "x": 42,
-    "y": 84,
+    "x": 84,
+    "y": 42,
     "sdf": true
   }
 }

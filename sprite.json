@@ -39,7 +39,7 @@
     "y": 0,
     "sdf": true
   },
-  "TRA-sdf": {
+  "Toilet": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
@@ -47,19 +47,11 @@
     "y": 24,
     "sdf": true
   },
-  "Toilet": {
-    "height": 24,
-    "pixelRatio": 1,
-    "width": 24,
-    "x": 72,
-    "y": 0,
-    "sdf": true
-  },
   "Waterfall": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 96,
+    "x": 72,
     "y": 0,
     "sdf": true
   }
