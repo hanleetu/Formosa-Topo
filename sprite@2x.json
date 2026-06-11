@@ -34,18 +34,25 @@
     "x": 0,
     "y": 72
   },
-  "Toilet": {
+  "TRA-sdf": {
     "height": 36,
     "pixelRatio": 2,
     "width": 36,
     "x": 36,
     "y": 36
   },
-  "Waterfall": {
+  "Toilet": {
     "height": 36,
     "pixelRatio": 2,
     "width": 36,
     "x": 72,
     "y": 36
+  },
+  "Waterfall": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 36,
+    "y": 72
   }
 }
