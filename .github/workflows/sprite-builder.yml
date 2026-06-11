@@ -19,8 +19,8 @@ jobs:
 
       - name: Pack SVGs into Sprites
         run: |
-          spreet . sprite
-          spreet --retina . sprite@2x
+          spreet --sdf . sprite
+          spreet --retina --sdf . sprite@2x
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
