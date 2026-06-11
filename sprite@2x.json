@@ -1,58 +1,66 @@
 {
   "Binoculars": {
-    "height": 36,
+    "height": 42,
     "pixelRatio": 2,
-    "width": 36,
+    "width": 42,
     "x": 0,
-    "y": 0
+    "y": 0,
+    "sdf": true
   },
   "Cave": {
-    "height": 36,
+    "height": 42,
     "pixelRatio": 2,
-    "width": 36,
-    "x": 36,
-    "y": 0
+    "width": 42,
+    "x": 42,
+    "y": 0,
+    "sdf": true
   },
   "HSR": {
-    "height": 36,
+    "height": 42,
     "pixelRatio": 2,
-    "width": 36,
-    "x": 72,
-    "y": 0
+    "width": 42,
+    "x": 84,
+    "y": 0,
+    "sdf": true
   },
   "MRT": {
-    "height": 36,
+    "height": 42,
     "pixelRatio": 2,
-    "width": 36,
+    "width": 42,
     "x": 0,
-    "y": 36
+    "y": 42,
+    "sdf": true
   },
   "TRA": {
-    "height": 36,
+    "height": 42,
     "pixelRatio": 2,
-    "width": 36,
+    "width": 42,
     "x": 0,
-    "y": 72
+    "y": 84,
+    "sdf": true
   },
   "TRA-sdf": {
-    "height": 36,
+    "height": 42,
     "pixelRatio": 2,
-    "width": 36,
-    "x": 36,
-    "y": 36
+    "width": 42,
+    "x": 42,
+    "y": 42,
+    "sdf": true
   },
   "Toilet": {
-    "height": 36,
+    "height": 42,
     "pixelRatio": 2,
-    "width": 36,
-    "x": 72,
-    "y": 36
+    "width": 42,
+    "x": 84,
+    "y": 42,
+    "sdf": true
   },
   "Waterfall": {
-    "height": 36,
+    "height": 42,
     "pixelRatio": 2,
-    "width": 36,
-    "x": 36,
-    "y": 72
+    "width": 42,
+    "x": 42,
+    "y": 84,
+    "sdf": true
   }
 }
