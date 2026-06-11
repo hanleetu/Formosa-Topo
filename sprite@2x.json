@@ -1,33 +1,33 @@
 {
   "Binoculars": {
-    "height": 42,
+    "height": 30,
     "pixelRatio": 2,
-    "width": 42,
-    "x": 0,
-    "y": 0,
-    "sdf": true
-  },
-  "Bus": {
-    "height": 42,
-    "pixelRatio": 2,
-    "width": 42,
+    "width": 30,
     "x": 0,
     "y": 42,
     "sdf": true
   },
-  "Cave": {
-    "height": 42,
+  "Bus": {
+    "height": 30,
     "pixelRatio": 2,
-    "width": 42,
+    "width": 30,
     "x": 0,
-    "y": 84,
+    "y": 72,
+    "sdf": true
+  },
+  "Cave": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 30,
+    "y": 42,
     "sdf": true
   },
   "HSR": {
     "height": 42,
     "pixelRatio": 2,
     "width": 42,
-    "x": 42,
+    "x": 0,
     "y": 0,
     "sdf": true
   },
@@ -36,23 +36,23 @@
     "pixelRatio": 2,
     "width": 42,
     "x": 42,
-    "y": 42,
+    "y": 0,
     "sdf": true
   },
   "Peak": {
-    "height": 42,
+    "height": 30,
     "pixelRatio": 2,
-    "width": 42,
-    "x": 42,
-    "y": 84,
+    "width": 30,
+    "x": 30,
+    "y": 72,
     "sdf": true
   },
   "Supplies": {
-    "height": 42,
+    "height": 30,
     "pixelRatio": 2,
-    "width": 42,
-    "x": 84,
-    "y": 0,
+    "width": 30,
+    "x": 60,
+    "y": 42,
     "sdf": true
   },
   "TRA": {
@@ -60,23 +60,23 @@
     "pixelRatio": 2,
     "width": 42,
     "x": 84,
-    "y": 42,
+    "y": 0,
     "sdf": true
   },
   "Toilet": {
-    "height": 42,
+    "height": 30,
     "pixelRatio": 2,
-    "width": 42,
-    "x": 84,
-    "y": 84,
+    "width": 30,
+    "x": 90,
+    "y": 42,
     "sdf": true
   },
   "Waterfall": {
-    "height": 42,
+    "height": 30,
     "pixelRatio": 2,
-    "width": 42,
-    "x": 126,
-    "y": 0,
+    "width": 30,
+    "x": 60,
+    "y": 72,
     "sdf": true
   }
 }
