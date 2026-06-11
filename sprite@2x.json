@@ -7,23 +7,7 @@
     "y": 0,
     "sdf": true
   },
-  "Cave": {
-    "height": 42,
-    "pixelRatio": 2,
-    "width": 42,
-    "x": 42,
-    "y": 0,
-    "sdf": true
-  },
-  "HSR": {
-    "height": 42,
-    "pixelRatio": 2,
-    "width": 42,
-    "x": 84,
-    "y": 0,
-    "sdf": true
-  },
-  "MRT": {
+  "Bus": {
     "height": 42,
     "pixelRatio": 2,
     "width": 42,
@@ -31,7 +15,7 @@
     "y": 42,
     "sdf": true
   },
-  "TRA": {
+  "Cave": {
     "height": 42,
     "pixelRatio": 2,
     "width": 42,
@@ -39,7 +23,15 @@
     "y": 84,
     "sdf": true
   },
-  "Toilet": {
+  "HSR": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 42,
+    "y": 0,
+    "sdf": true
+  },
+  "MRT": {
     "height": 42,
     "pixelRatio": 2,
     "width": 42,
@@ -47,12 +39,44 @@
     "y": 42,
     "sdf": true
   },
-  "Waterfall": {
+  "Peak": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 42,
+    "y": 84,
+    "sdf": true
+  },
+  "Supplies": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 84,
+    "y": 0,
+    "sdf": true
+  },
+  "TRA": {
     "height": 42,
     "pixelRatio": 2,
     "width": 42,
     "x": 84,
     "y": 42,
+    "sdf": true
+  },
+  "Toilet": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 84,
+    "y": 84,
+    "sdf": true
+  },
+  "Waterfall": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 126,
+    "y": 0,
     "sdf": true
   }
 }

@@ -7,7 +7,7 @@
     "y": 0,
     "sdf": true
   },
-  "Cave": {
+  "Bus": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
@@ -15,7 +15,7 @@
     "y": 24,
     "sdf": true
   },
-  "HSR": {
+  "Cave": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
@@ -23,7 +23,7 @@
     "y": 0,
     "sdf": true
   },
-  "MRT": {
+  "HSR": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
@@ -31,11 +31,35 @@
     "y": 24,
     "sdf": true
   },
-  "TRA": {
+  "MRT": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 48,
+    "y": 0,
+    "sdf": true
+  },
+  "Peak": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 48,
+    "y": 24,
+    "sdf": true
+  },
+  "Supplies": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 72,
+    "y": 0,
+    "sdf": true
+  },
+  "TRA": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 96,
     "y": 0,
     "sdf": true
   },
@@ -43,7 +67,7 @@
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 48,
+    "x": 72,
     "y": 24,
     "sdf": true
   },
@@ -51,8 +75,8 @@
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 72,
-    "y": 0,
+    "x": 96,
+    "y": 24,
     "sdf": true
   }
 }
