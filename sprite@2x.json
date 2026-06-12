@@ -15,7 +15,7 @@
     "y": 30,
     "sdf": true
   },
-  "Cave": {
+  "Cabin": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -23,7 +23,7 @@
     "y": 60,
     "sdf": true
   },
-  "Clinic": {
+  "Campsite": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -31,12 +31,28 @@
     "y": 90,
     "sdf": true
   },
-  "Farmacy": {
+  "Cave": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
     "x": 72,
     "y": 0,
+    "sdf": true
+  },
+  "Clinic": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 72,
+    "y": 30,
+    "sdf": true
+  },
+  "Farmacy": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 72,
+    "y": 60,
     "sdf": true
   },
   "HSR": {
@@ -52,7 +68,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 72,
-    "y": 30,
+    "y": 90,
     "sdf": true
   },
   "MRT": {
@@ -67,16 +83,24 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 72,
-    "y": 60,
+    "x": 102,
+    "y": 0,
+    "sdf": true
+  },
+  "Shelter": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 102,
+    "y": 30,
     "sdf": true
   },
   "Star": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 72,
-    "y": 90,
+    "x": 102,
+    "y": 60,
     "sdf": true
   },
   "Supplies": {
@@ -84,7 +108,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 102,
-    "y": 0,
+    "y": 90,
     "sdf": true
   },
   "TRA": {
@@ -99,16 +123,32 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 102,
-    "y": 30,
+    "x": 132,
+    "y": 0,
+    "sdf": true
+  },
+  "Tram": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 28,
+    "x": 222,
+    "y": 0,
     "sdf": true
   },
   "Waterfall": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 102,
-    "y": 60,
+    "x": 162,
+    "y": 0,
+    "sdf": true
+  },
+  "Worship": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 192,
+    "y": 0,
     "sdf": true
   }
 }
