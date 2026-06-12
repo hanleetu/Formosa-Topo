@@ -55,6 +55,14 @@
     "y": 24,
     "sdf": true
   },
+  "Food": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 18,
+    "y": 24,
+    "sdf": true
+  },
   "HSR": {
     "height": 24,
     "pixelRatio": 1,
@@ -67,7 +75,15 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
+    "x": 36,
+    "y": 24,
+    "sdf": true
+  },
+  "Hot springs": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 54,
     "y": 24,
     "sdf": true
   },
@@ -83,23 +99,23 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
-    "y": 24,
+    "x": 72,
+    "y": 36,
     "sdf": true
   },
   "Shelter": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 54,
-    "y": 24,
+    "x": 90,
+    "y": 36,
     "sdf": true
   },
   "Star": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 72,
+    "x": 108,
     "y": 36,
     "sdf": true
   },
@@ -107,8 +123,8 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 90,
-    "y": 36,
+    "x": 0,
+    "y": 42,
     "sdf": true
   },
   "TRA": {
@@ -123,23 +139,23 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 108,
-    "y": 36,
+    "x": 18,
+    "y": 42,
     "sdf": true
   },
   "Tram": {
     "height": 18,
     "pixelRatio": 1,
     "width": 17,
-    "x": 36,
-    "y": 42,
+    "x": 72,
+    "y": 54,
     "sdf": true
   },
   "Waterfall": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 0,
+    "x": 36,
     "y": 42,
     "sdf": true
   },
@@ -147,7 +163,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
+    "x": 54,
     "y": 42,
     "sdf": true
   }

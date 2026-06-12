@@ -55,6 +55,14 @@
     "y": 60,
     "sdf": true
   },
+  "Food": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 72,
+    "y": 90,
+    "sdf": true
+  },
   "HSR": {
     "height": 42,
     "pixelRatio": 2,
@@ -67,8 +75,16 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 72,
-    "y": 90,
+    "x": 102,
+    "y": 0,
+    "sdf": true
+  },
+  "Hot springs": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 102,
+    "y": 30,
     "sdf": true
   },
   "MRT": {
@@ -84,7 +100,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 102,
-    "y": 0,
+    "y": 60,
     "sdf": true
   },
   "Shelter": {
@@ -92,23 +108,23 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 102,
-    "y": 30,
+    "y": 90,
     "sdf": true
   },
   "Star": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 102,
-    "y": 60,
+    "x": 132,
+    "y": 0,
     "sdf": true
   },
   "Supplies": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 102,
-    "y": 90,
+    "x": 162,
+    "y": 0,
     "sdf": true
   },
   "TRA": {
@@ -123,7 +139,7 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 132,
+    "x": 192,
     "y": 0,
     "sdf": true
   },
@@ -131,15 +147,15 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 28,
-    "x": 222,
-    "y": 0,
+    "x": 132,
+    "y": 60,
     "sdf": true
   },
   "Waterfall": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 162,
+    "x": 222,
     "y": 0,
     "sdf": true
   },
@@ -147,8 +163,8 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 192,
-    "y": 0,
+    "x": 132,
+    "y": 30,
     "sdf": true
   }
 }
