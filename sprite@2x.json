@@ -1,18 +1,10 @@
 {
-  "Attractions": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 42,
-    "y": 0,
-    "sdf": true
-  },
   "Binoculars": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
     "x": 42,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Bus": {
@@ -20,7 +12,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 42,
-    "y": 60,
+    "y": 30,
     "sdf": true
   },
   "Cave": {
@@ -28,15 +20,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 42,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Clinic": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 72,
-    "y": 0,
+    "x": 42,
+    "y": 90,
     "sdf": true
   },
   "Farmacy": {
@@ -44,7 +36,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 72,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "HSR": {
@@ -60,7 +52,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 72,
-    "y": 60,
+    "y": 30,
     "sdf": true
   },
   "MRT": {
@@ -76,15 +68,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 72,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Star": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 102,
-    "y": 0,
+    "x": 72,
+    "y": 90,
     "sdf": true
   },
   "Supplies": {
@@ -92,7 +84,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 102,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "TRA": {
@@ -108,7 +100,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 102,
-    "y": 60,
+    "y": 30,
     "sdf": true
   },
   "Waterfall": {
@@ -116,7 +108,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 102,
-    "y": 90,
+    "y": 60,
     "sdf": true
   }
 }
