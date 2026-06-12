@@ -79,12 +79,20 @@
     "y": 90,
     "sdf": true
   },
-  "Supplies": {
+  "Star": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
     "x": 102,
     "y": 0,
+    "sdf": true
+  },
+  "Supplies": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 102,
+    "y": 30,
     "sdf": true
   },
   "TRA": {
@@ -100,7 +108,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 102,
-    "y": 30,
+    "y": 60,
     "sdf": true
   },
   "Waterfall": {
@@ -108,7 +116,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 102,
-    "y": 60,
+    "y": 90,
     "sdf": true
   }
 }
