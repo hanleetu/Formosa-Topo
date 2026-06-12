@@ -47,19 +47,11 @@
     "y": 18,
     "sdf": true
   },
-  "Farmacy": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 0,
-    "y": 24,
-    "sdf": true
-  },
   "Food": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
+    "x": 0,
     "y": 24,
     "sdf": true
   },
@@ -75,7 +67,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
+    "x": 18,
     "y": 24,
     "sdf": true
   },
@@ -83,7 +75,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 54,
+    "x": 36,
     "y": 24,
     "sdf": true
   },
@@ -96,6 +88,14 @@
     "sdf": true
   },
   "Peak": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 54,
+    "y": 24,
+    "sdf": true
+  },
+  "Pharmacy": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
