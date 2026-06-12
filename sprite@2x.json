@@ -143,15 +143,7 @@
     "y": 30,
     "sdf": true
   },
-  "Tram": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 28,
-    "x": 162,
-    "y": 0,
-    "sdf": true
-  },
-  "Waterfall": {
+  "Train": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -159,12 +151,28 @@
     "y": 60,
     "sdf": true
   },
-  "Worship": {
+  "Tram": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 28,
+    "x": 162,
+    "y": 30,
+    "sdf": true
+  },
+  "Waterfall": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
     "x": 150,
     "y": 90,
+    "sdf": true
+  },
+  "Worship": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 162,
+    "y": 0,
     "sdf": true
   }
 }
