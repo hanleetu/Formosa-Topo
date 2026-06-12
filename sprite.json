@@ -3,7 +3,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 72,
+    "x": 48,
     "y": 0,
     "sdf": true
   },
@@ -11,7 +11,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 90,
+    "x": 66,
     "y": 0,
     "sdf": true
   },
@@ -19,7 +19,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 108,
+    "x": 84,
     "y": 0,
     "sdf": true
   },
@@ -27,15 +27,15 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 72,
-    "y": 18,
+    "x": 102,
+    "y": 0,
     "sdf": true
   },
   "Cave": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 90,
+    "x": 48,
     "y": 18,
     "sdf": true
   },
@@ -43,27 +43,11 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 108,
-    "y": 18,
-    "sdf": true
-  },
-  "Food": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
     "x": 0,
     "y": 24,
     "sdf": true
   },
-  "HSR": {
-    "height": 24,
-    "pixelRatio": 1,
-    "width": 24,
-    "x": 0,
-    "y": 0,
-    "sdf": true
-  },
-  "Hospital": {
+  "Food": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -71,19 +55,35 @@
     "y": 24,
     "sdf": true
   },
+  "HSR": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 66,
+    "y": 18,
+    "sdf": true
+  },
+  "Hospital": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 84,
+    "y": 18,
+    "sdf": true
+  },
   "Hot springs": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
-    "y": 24,
+    "x": 102,
+    "y": 18,
     "sdf": true
   },
   "MRT": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 24,
+    "x": 0,
     "y": 0,
     "sdf": true
   },
@@ -91,35 +91,11 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 54,
-    "y": 24,
+    "x": 36,
+    "y": 36,
     "sdf": true
   },
   "Pharmacy": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 72,
-    "y": 36,
-    "sdf": true
-  },
-  "Shelter": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 90,
-    "y": 36,
-    "sdf": true
-  },
-  "Star": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 108,
-    "y": 36,
-    "sdf": true
-  },
-  "Supplies": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -127,15 +103,7 @@
     "y": 42,
     "sdf": true
   },
-  "TRA": {
-    "height": 24,
-    "pixelRatio": 1,
-    "width": 24,
-    "x": 48,
-    "y": 0,
-    "sdf": true
-  },
-  "Toilet": {
+  "Shelter": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -143,28 +111,60 @@
     "y": 42,
     "sdf": true
   },
+  "Star": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 54,
+    "y": 36,
+    "sdf": true
+  },
+  "Supplies": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 72,
+    "y": 36,
+    "sdf": true
+  },
+  "TRA": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 24,
+    "y": 0,
+    "sdf": true
+  },
+  "Toilet": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 90,
+    "y": 36,
+    "sdf": true
+  },
   "Tram": {
     "height": 18,
     "pixelRatio": 1,
     "width": 17,
-    "x": 72,
-    "y": 54,
+    "x": 0,
+    "y": 60,
     "sdf": true
   },
   "Waterfall": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
-    "y": 42,
+    "x": 108,
+    "y": 36,
     "sdf": true
   },
   "Worship": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 54,
-    "y": 42,
+    "x": 36,
+    "y": 54,
     "sdf": true
   }
 }
