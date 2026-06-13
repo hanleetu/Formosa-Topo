@@ -148,7 +148,7 @@
     "pixelRatio": 2,
     "width": 28,
     "x": 180,
-    "y": 60,
+    "y": 90,
     "sdf": true
   },
   "Viewpoint": {
@@ -159,7 +159,7 @@
     "y": 60,
     "sdf": true
   },
-  "Water": {
+  "Warning": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -167,7 +167,7 @@
     "y": 90,
     "sdf": true
   },
-  "Waterfall": {
+  "Water": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -175,12 +175,20 @@
     "y": 0,
     "sdf": true
   },
-  "Worship": {
+  "Waterfall": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
     "x": 162,
     "y": 30,
+    "sdf": true
+  },
+  "Worship": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 180,
+    "y": 60,
     "sdf": true
   }
 }
