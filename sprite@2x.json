@@ -4,23 +4,23 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 0,
-    "y": 84,
+    "y": 42,
     "sdf": true
   },
   "Bus": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 84,
+    "x": 0,
+    "y": 72,
     "sdf": true
   },
   "Cabin": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 42,
-    "y": 0,
+    "x": 30,
+    "y": 42,
     "sdf": true
   },
   "Campsite": {
@@ -28,15 +28,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 42,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Cave": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
-    "y": 60,
+    "x": 30,
+    "y": 72,
     "sdf": true
   },
   "Clinic": {
@@ -44,7 +44,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 60,
-    "y": 90,
+    "y": 30,
     "sdf": true
   },
   "Food": {
@@ -59,16 +59,16 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 72,
-    "y": 30,
+    "x": 60,
+    "y": 60,
     "sdf": true
   },
   "Hospital": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
-    "y": 60,
+    "x": 60,
+    "y": 90,
     "sdf": true
   },
   "Hot springs": {
@@ -76,7 +76,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 90,
-    "y": 90,
+    "y": 30,
     "sdf": true
   },
   "MRT": {
@@ -99,16 +99,16 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 102,
-    "y": 30,
+    "x": 90,
+    "y": 60,
     "sdf": true
   },
   "Shelter": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 120,
-    "y": 60,
+    "x": 90,
+    "y": 90,
     "sdf": true
   },
   "Star": {
@@ -116,7 +116,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 120,
-    "y": 90,
+    "y": 30,
     "sdf": true
   },
   "Supplies": {
@@ -127,36 +127,28 @@
     "y": 0,
     "sdf": true
   },
-  "TRA": {
-    "height": 42,
-    "pixelRatio": 2,
-    "width": 42,
-    "x": 0,
-    "y": 42,
-    "sdf": true
-  },
   "Toilet": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 132,
-    "y": 30,
+    "x": 120,
+    "y": 60,
     "sdf": true
   },
   "Train": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 150,
-    "y": 60,
+    "x": 120,
+    "y": 90,
     "sdf": true
   },
   "Tram": {
     "height": 30,
     "pixelRatio": 2,
     "width": 28,
-    "x": 192,
-    "y": 30,
+    "x": 222,
+    "y": 0,
     "sdf": true
   },
   "Tree": {
@@ -164,7 +156,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 150,
-    "y": 90,
+    "y": 30,
     "sdf": true
   },
   "Viewpoint": {
@@ -179,16 +171,16 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 162,
-    "y": 30,
+    "x": 150,
+    "y": 60,
     "sdf": true
   },
   "Water": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 180,
-    "y": 60,
+    "x": 150,
+    "y": 90,
     "sdf": true
   },
   "Waterfall": {
@@ -196,7 +188,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 180,
-    "y": 90,
+    "y": 30,
     "sdf": true
   },
   "Worship": {

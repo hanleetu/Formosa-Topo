@@ -3,7 +3,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 48,
+    "x": 24,
     "y": 0,
     "sdf": true
   },
@@ -11,7 +11,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 66,
+    "x": 42,
     "y": 0,
     "sdf": true
   },
@@ -19,7 +19,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 84,
+    "x": 60,
     "y": 0,
     "sdf": true
   },
@@ -27,7 +27,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 102,
+    "x": 78,
     "y": 0,
     "sdf": true
   },
@@ -35,11 +35,19 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 48,
-    "y": 18,
+    "x": 96,
+    "y": 0,
     "sdf": true
   },
   "Clinic": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 24,
+    "y": 18,
+    "sdf": true
+  },
+  "Food": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -47,19 +55,11 @@
     "y": 24,
     "sdf": true
   },
-  "Food": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 18,
-    "y": 24,
-    "sdf": true
-  },
   "Guanyinstone": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 66,
+    "x": 42,
     "y": 18,
     "sdf": true
   },
@@ -67,7 +67,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 84,
+    "x": 60,
     "y": 18,
     "sdf": true
   },
@@ -75,7 +75,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 102,
+    "x": 78,
     "y": 18,
     "sdf": true
   },
@@ -91,23 +91,23 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
-    "y": 36,
+    "x": 96,
+    "y": 18,
     "sdf": true
   },
   "Pharmacy": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 0,
-    "y": 42,
+    "x": 18,
+    "y": 36,
     "sdf": true
   },
   "Shelter": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
+    "x": 0,
     "y": 42,
     "sdf": true
   },
@@ -115,64 +115,56 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 54,
-    "y": 36,
+    "x": 18,
+    "y": 54,
     "sdf": true
   },
   "Supplies": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 72,
-    "y": 36,
-    "sdf": true
-  },
-  "TRA": {
-    "height": 24,
-    "pixelRatio": 1,
-    "width": 24,
-    "x": 24,
-    "y": 0,
+    "x": 0,
+    "y": 60,
     "sdf": true
   },
   "Toilet": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 90,
-    "y": 36,
+    "x": 18,
+    "y": 72,
     "sdf": true
   },
   "Train": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 108,
-    "y": 36,
+    "x": 0,
+    "y": 78,
     "sdf": true
   },
   "Tram": {
     "height": 18,
     "pixelRatio": 1,
     "width": 17,
-    "x": 36,
-    "y": 90,
+    "x": 90,
+    "y": 36,
     "sdf": true
   },
   "Tree": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
-    "y": 54,
+    "x": 0,
+    "y": 96,
     "sdf": true
   },
   "Viewpoint": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 0,
-    "y": 60,
+    "x": 18,
+    "y": 90,
     "sdf": true
   },
   "Warning": {
@@ -180,7 +172,7 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 18,
-    "y": 60,
+    "y": 108,
     "sdf": true
   },
   "Water": {
@@ -188,23 +180,23 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 36,
-    "y": 72,
+    "y": 36,
     "sdf": true
   },
   "Waterfall": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 0,
-    "y": 78,
+    "x": 54,
+    "y": 36,
     "sdf": true
   },
   "Worship": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
-    "y": 78,
+    "x": 72,
+    "y": 36,
     "sdf": true
   }
 }
