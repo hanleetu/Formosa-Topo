@@ -1,5 +1,5 @@
 {
-  "Binoculars": {
+  "Bus": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -7,7 +7,7 @@
     "y": 84,
     "sdf": true
   },
-  "Bus": {
+  "Cabin": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -15,7 +15,7 @@
     "y": 84,
     "sdf": true
   },
-  "Cabin": {
+  "Campsite": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -23,20 +23,12 @@
     "y": 0,
     "sdf": true
   },
-  "Campsite": {
+  "Cave": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
     "x": 42,
     "y": 30,
-    "sdf": true
-  },
-  "Cave": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 60,
-    "y": 60,
     "sdf": true
   },
   "Clinic": {
@@ -44,15 +36,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 60,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Food": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 72,
-    "y": 0,
+    "x": 60,
+    "y": 90,
     "sdf": true
   },
   "HSR": {
@@ -60,15 +52,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 72,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Hospital": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
-    "y": 60,
+    "x": 72,
+    "y": 30,
     "sdf": true
   },
   "Hot springs": {
@@ -76,7 +68,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 90,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "MRT": {
@@ -91,8 +83,8 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 102,
-    "y": 0,
+    "x": 90,
+    "y": 90,
     "sdf": true
   },
   "Pharmacy": {
@@ -100,15 +92,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 102,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Shelter": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 120,
-    "y": 60,
+    "x": 102,
+    "y": 30,
     "sdf": true
   },
   "Star": {
@@ -116,15 +108,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 120,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Supplies": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 132,
-    "y": 0,
+    "x": 120,
+    "y": 90,
     "sdf": true
   },
   "TRA": {
@@ -140,15 +132,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 132,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Train": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 150,
-    "y": 60,
+    "x": 132,
+    "y": 30,
     "sdf": true
   },
   "Tram": {
@@ -156,6 +148,14 @@
     "pixelRatio": 2,
     "width": 28,
     "x": 180,
+    "y": 60,
+    "sdf": true
+  },
+  "Viewpoint": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 150,
     "y": 60,
     "sdf": true
   },
