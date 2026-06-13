@@ -147,11 +147,11 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 17,
-    "x": 0,
+    "x": 18,
     "y": 78,
     "sdf": true
   },
-  "Viewpoint": {
+  "Tree": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -159,7 +159,7 @@
     "y": 36,
     "sdf": true
   },
-  "Warning": {
+  "Viewpoint": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -167,7 +167,7 @@
     "y": 54,
     "sdf": true
   },
-  "Water": {
+  "Warning": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -175,7 +175,7 @@
     "y": 60,
     "sdf": true
   },
-  "Waterfall": {
+  "Water": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -183,12 +183,20 @@
     "y": 60,
     "sdf": true
   },
-  "Worship": {
+  "Waterfall": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 36,
     "y": 72,
+    "sdf": true
+  },
+  "Worship": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 0,
+    "y": 78,
     "sdf": true
   }
 }
