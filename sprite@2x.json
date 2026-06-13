@@ -55,7 +55,7 @@
     "y": 0,
     "sdf": true
   },
-  "HSR": {
+  "Guanyinstone": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -63,7 +63,7 @@
     "y": 30,
     "sdf": true
   },
-  "Hospital": {
+  "HSR": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -71,12 +71,20 @@
     "y": 60,
     "sdf": true
   },
-  "Hot springs": {
+  "Hospital": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
     "x": 90,
     "y": 90,
+    "sdf": true
+  },
+  "Hot springs": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 102,
+    "y": 0,
     "sdf": true
   },
   "MRT": {
@@ -92,18 +100,10 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 102,
-    "y": 0,
-    "sdf": true
-  },
-  "Pharmacy": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 102,
     "y": 30,
     "sdf": true
   },
-  "Shelter": {
+  "Pharmacy": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -111,7 +111,7 @@
     "y": 60,
     "sdf": true
   },
-  "Star": {
+  "Shelter": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -119,12 +119,20 @@
     "y": 90,
     "sdf": true
   },
-  "Supplies": {
+  "Star": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
     "x": 132,
     "y": 0,
+    "sdf": true
+  },
+  "Supplies": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 132,
+    "y": 30,
     "sdf": true
   },
   "TRA": {
@@ -139,8 +147,8 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 132,
-    "y": 30,
+    "x": 150,
+    "y": 60,
     "sdf": true
   },
   "Train": {
@@ -148,23 +156,23 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 150,
-    "y": 60,
+    "y": 90,
     "sdf": true
   },
   "Tram": {
     "height": 30,
     "pixelRatio": 2,
     "width": 28,
-    "x": 192,
-    "y": 30,
+    "x": 210,
+    "y": 60,
     "sdf": true
   },
   "Tree": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 150,
-    "y": 90,
+    "x": 162,
+    "y": 0,
     "sdf": true
   },
   "Viewpoint": {
@@ -172,18 +180,10 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 162,
-    "y": 0,
-    "sdf": true
-  },
-  "Warning": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 162,
     "y": 30,
     "sdf": true
   },
-  "Water": {
+  "Warning": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -191,7 +191,7 @@
     "y": 60,
     "sdf": true
   },
-  "Waterfall": {
+  "Water": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -199,12 +199,20 @@
     "y": 90,
     "sdf": true
   },
-  "Worship": {
+  "Waterfall": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
     "x": 192,
     "y": 0,
+    "sdf": true
+  },
+  "Worship": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 192,
+    "y": 30,
     "sdf": true
   }
 }

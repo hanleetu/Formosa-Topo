@@ -55,7 +55,7 @@
     "y": 24,
     "sdf": true
   },
-  "HSR": {
+  "Guanyinstone": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -63,7 +63,7 @@
     "y": 18,
     "sdf": true
   },
-  "Hospital": {
+  "HSR": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -71,12 +71,20 @@
     "y": 18,
     "sdf": true
   },
-  "Hot springs": {
+  "Hospital": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 102,
     "y": 18,
+    "sdf": true
+  },
+  "Hot springs": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 36,
+    "y": 36,
     "sdf": true
   },
   "MRT": {
@@ -91,19 +99,11 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
-    "y": 36,
-    "sdf": true
-  },
-  "Pharmacy": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
     "x": 0,
     "y": 42,
     "sdf": true
   },
-  "Shelter": {
+  "Pharmacy": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -111,7 +111,7 @@
     "y": 42,
     "sdf": true
   },
-  "Star": {
+  "Shelter": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -119,11 +119,19 @@
     "y": 36,
     "sdf": true
   },
-  "Supplies": {
+  "Star": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 72,
+    "y": 36,
+    "sdf": true
+  },
+  "Supplies": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 90,
     "y": 36,
     "sdf": true
   },
@@ -139,7 +147,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 90,
+    "x": 108,
     "y": 36,
     "sdf": true
   },
@@ -147,31 +155,31 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 108,
-    "y": 36,
+    "x": 36,
+    "y": 54,
     "sdf": true
   },
   "Tram": {
     "height": 18,
     "pixelRatio": 1,
     "width": 17,
-    "x": 36,
-    "y": 90,
+    "x": 0,
+    "y": 96,
     "sdf": true
   },
   "Tree": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
-    "y": 54,
+    "x": 0,
+    "y": 60,
     "sdf": true
   },
   "Viewpoint": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 0,
+    "x": 18,
     "y": 60,
     "sdf": true
   },
@@ -179,19 +187,11 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
-    "y": 60,
-    "sdf": true
-  },
-  "Water": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
     "x": 36,
     "y": 72,
     "sdf": true
   },
-  "Waterfall": {
+  "Water": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -199,12 +199,20 @@
     "y": 78,
     "sdf": true
   },
-  "Worship": {
+  "Waterfall": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 18,
     "y": 78,
+    "sdf": true
+  },
+  "Worship": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 36,
+    "y": 90,
     "sdf": true
   }
 }
