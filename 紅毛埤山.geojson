@@ -6,7 +6,6 @@
     "elevation": "150m"
   },
   "geometry": {
-    "type": "Point",
-    "coordinates": [120.49196815, 23.48000742]
-  }
+  "type": "Point",
+  "coordinates": [120.491968, 23.480007]
 }
