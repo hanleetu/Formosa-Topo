@@ -1,11 +1,16 @@
 {
-  "type": "Feature",
-  "properties": {
-    "custom_id": "hongmaopishan_peak",
-    "name": "紅毛埤山",
-    "elevation": "150m"
-  },
-  "geometry": {
-  "type": "Point",
-  "coordinates": [23.4797809,120.4920211]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "紅毛埤山",
+        "elevation": "150m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.493917, 23.479148]
+      }
+    }
+  ]
 }
