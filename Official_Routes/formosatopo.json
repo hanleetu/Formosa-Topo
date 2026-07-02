@@ -7,14 +7,37 @@
     "openmaptiles": {
       "type": "vector",
       "url": "https://api.maptiler.com/maps/outdoor-v4/style.json?key=p002BkT8RPAUmAXgfbIe"
+    },
+    "my-custom-routes": {
+      "type": "geojson",
+      "data": "https://raw.githubusercontent.com/hanleetu/Formosa-Topo/refs/heads/main/Official_Routes/formosatopo.json"
     }
   },
-{
-  "id": "my-custom-routes",
-  "type": "line",
-  "source": "https://raw.githubusercontent.com/hanleetu/Formosa-Topo/refs/heads/main/Official_Routes/formosatopo.json",
-  "paint": { "line-color": "#ff0000", "line-width": 2 }
+  "layers": [
+    {
+      "id": "my-custom-routes",
+      "type": "line",
+      "source": "my-custom-routes",
+      "paint": {
+        "line-color": "#ff0000",
+        "line-width": 2
+      }
+    },
+    {
+      "id": "poi",
+      "type": "symbol",
+      "source": "openmaptiles",
+      "source-layer": "poi",
+      "layout": {
+        "visibility": "visible"
+      }
+    }
+  ],
+  "minZoom": 7,
+  "maxBounds": [118, 21.5, 123.5, 26.5],
+  "id": "openstreetmap"
 }
+
       "groups": [
         {
           "id": "poi",
