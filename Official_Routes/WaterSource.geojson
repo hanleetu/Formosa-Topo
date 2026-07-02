@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "嘉平營地水源"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.467040, 24.499687]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "土場溪水源頭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.469753, 24.498843]
+      }
+    }
+  ]
+}
