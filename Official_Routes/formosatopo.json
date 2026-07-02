@@ -1,8 +1,14 @@
 {
   "version": 8,
-  "name": "FormosaTopo",
-  "metadata": {
-    "maptiler": {
+  "name": "Formosa Topo",
+  "sprite": "https://raw.githubusercontent.com/hanleetu/Formosa-Topo/refs/heads/main/sprites/sprite",
+  "glyphs": "https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf",
+  "sources": {
+    "openmaptiles": {
+      "type": "vector",
+      "url": "https://demotiles.maplibre.org/tiles/tiles.json"
+    }
+  },
       "groups": [
         {
           "id": "poi",
