@@ -10,6 +10,16 @@
         "type": "Point",
         "coordinates": [121.479268, 24.474223]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "嘉平營地"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4671416, 24.500094]
+      }
     }
   ]
 }
