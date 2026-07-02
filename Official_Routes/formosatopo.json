@@ -6,7 +6,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://demotiles.maplibre.org/tiles/tiles.json"
+      "url": "https://api.maptiler.com/maps/outdoor-v4/style.json?key=p002BkT8RPAUmAXgfbIe"
     }
   },
       "groups": [
