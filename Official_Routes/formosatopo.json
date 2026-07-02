@@ -9,6 +9,12 @@
       "url": "https://api.maptiler.com/maps/outdoor-v4/style.json?key=p002BkT8RPAUmAXgfbIe"
     }
   },
+{
+  "id": "my-custom-routes",
+  "type": "line",
+  "source": "https://raw.githubusercontent.com/hanleetu/Formosa-Topo/refs/heads/main/Official_Routes/formosatopo.json",
+  "paint": { "line-color": "#ff0000", "line-width": 2 }
+}
       "groups": [
         {
           "id": "poi",
