@@ -4,11 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "加羅湖營地",
+        "name": "加羅湖營地"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [24.474223, 121.479268]
+        "coordinates": [121.479268, 24.474223]
       }
     }
   ]
