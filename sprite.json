@@ -7,7 +7,7 @@
     "y": 0,
     "sdf": true
   },
-  "Warning": {
+  "Water": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -15,7 +15,7 @@
     "y": 0,
     "sdf": true
   },
-  "Water": {
+  "Waterfall": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -23,20 +23,12 @@
     "y": 0,
     "sdf": true
   },
-  "Waterfall": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 0,
-    "y": 18,
-    "sdf": true
-  },
   "Worship": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 0,
-    "y": 36,
+    "y": 18,
     "sdf": true
   }
 }
