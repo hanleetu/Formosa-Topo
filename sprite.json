@@ -1,26 +1,18 @@
 {
-  "Campsite": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 0,
-    "y": 24,
-    "sdf": true
-  },
   "Cave": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 0,
-    "y": 42,
+    "y": 24,
     "sdf": true
   },
   "Guanyinstone": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
-    "y": 24,
+    "x": 0,
+    "y": 42,
     "sdf": true
   },
   "Hot springs": {
@@ -28,15 +20,15 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 18,
-    "y": 42,
+    "y": 24,
     "sdf": true
   },
   "Lighthouse": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 24,
-    "y": 0,
+    "x": 18,
+    "y": 42,
     "sdf": true
   },
   "MRT": {
@@ -51,11 +43,19 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
+    "x": 24,
+    "y": 0,
+    "sdf": true
+  },
+  "Shelter": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
     "x": 36,
     "y": 18,
     "sdf": true
   },
-  "Shelter": {
+  "Star": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -63,7 +63,7 @@
     "y": 0,
     "sdf": true
   },
-  "Star": {
+  "Supplies": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -71,7 +71,7 @@
     "y": 36,
     "sdf": true
   },
-  "Supplies": {
+  "Toilet": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -79,7 +79,7 @@
     "y": 18,
     "sdf": true
   },
-  "Toilet": {
+  "Train": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -87,7 +87,7 @@
     "y": 0,
     "sdf": true
   },
-  "Train": {
+  "Tree": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -95,7 +95,7 @@
     "y": 36,
     "sdf": true
   },
-  "Tree": {
+  "Warning": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -103,7 +103,7 @@
     "y": 18,
     "sdf": true
   },
-  "Warning": {
+  "Water": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -111,7 +111,7 @@
     "y": 0,
     "sdf": true
   },
-  "Water": {
+  "Waterfall": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -119,20 +119,12 @@
     "y": 36,
     "sdf": true
   },
-  "Waterfall": {
+  "Worship": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 90,
     "y": 18,
-    "sdf": true
-  },
-  "Worship": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 96,
-    "y": 0,
     "sdf": true
   }
 }
