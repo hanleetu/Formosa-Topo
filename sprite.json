@@ -20,7 +20,7 @@
     "pixelRatio": 1,
     "width": 17,
     "x": 18,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Tree": {
@@ -45,14 +45,6 @@
     "width": 18,
     "x": 0,
     "y": 36,
-    "sdf": true
-  },
-  "Waterfall": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 18,
-    "y": 18,
     "sdf": true
   }
 }

@@ -19,8 +19,8 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 28,
-    "x": 90,
-    "y": 0,
+    "x": 60,
+    "y": 30,
     "sdf": true
   },
   "Tree": {
@@ -45,14 +45,6 @@
     "width": 30,
     "x": 60,
     "y": 0,
-    "sdf": true
-  },
-  "Waterfall": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 60,
-    "y": 30,
     "sdf": true
   }
 }
