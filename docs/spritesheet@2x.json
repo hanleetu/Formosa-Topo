@@ -1,0 +1,122 @@
+{
+  "binoculars": {
+    "x": 0,
+    "y": 0,
+    "width": 128,
+    "height": 128
+  },
+  "bus": {
+    "x": 128,
+    "y": 0,
+    "width": 128,
+    "height": 128
+  },
+  "cabin": {
+    "x": 256,
+    "y": 0,
+    "width": 128,
+    "height": 128
+  },
+  "campsite": {
+    "x": 384,
+    "y": 0,
+    "width": 128,
+    "height": 128
+  },
+  "cave": {
+    "x": 0,
+    "y": 128,
+    "width": 128,
+    "height": 128
+  },
+  "guanyinstone": {
+    "x": 128,
+    "y": 128,
+    "width": 128,
+    "height": 128
+  },
+  "hot springs": {
+    "x": 256,
+    "y": 128,
+    "width": 128,
+    "height": 128
+  },
+  "lighthouse": {
+    "x": 384,
+    "y": 128,
+    "width": 128,
+    "height": 128
+  },
+  "mrt": {
+    "x": 0,
+    "y": 256,
+    "width": 128,
+    "height": 128
+  },
+  "peak": {
+    "x": 128,
+    "y": 256,
+    "width": 128,
+    "height": 128
+  },
+  "shelter": {
+    "x": 256,
+    "y": 256,
+    "width": 128,
+    "height": 128
+  },
+  "star": {
+    "x": 384,
+    "y": 256,
+    "width": 128,
+    "height": 128
+  },
+  "supplies": {
+    "x": 0,
+    "y": 384,
+    "width": 128,
+    "height": 128
+  },
+  "toilet": {
+    "x": 128,
+    "y": 384,
+    "width": 128,
+    "height": 128
+  },
+  "tree": {
+    "x": 256,
+    "y": 384,
+    "width": 128,
+    "height": 128
+  },
+  "warning": {
+    "x": 384,
+    "y": 384,
+    "width": 128,
+    "height": 128
+  },
+  "water": {
+    "x": 0,
+    "y": 512,
+    "width": 128,
+    "height": 128
+  },
+  "waterfall": {
+    "x": 128,
+    "y": 512,
+    "width": 128,
+    "height": 128
+  },
+  "worship": {
+    "x": 256,
+    "y": 512,
+    "width": 128,
+    "height": 128
+  },
+  "train": {
+    "x": 384,
+    "y": 512,
+    "width": 128,
+    "height": 128
+  }
+}
