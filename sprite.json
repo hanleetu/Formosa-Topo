@@ -1,10 +1,114 @@
 {
-  "Guanyinstone": {
-    "height": 18,
+  "Binoculars": {
+    "height": 31,
     "pixelRatio": 1,
-    "width": 18,
+    "width": 31,
     "x": 0,
     "y": 0,
+    "sdf": true
+  },
+  "Bus": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 31,
+    "y": 0,
+    "sdf": true
+  },
+  "Cabin": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 62,
+    "y": 0,
+    "sdf": true
+  },
+  "Campsite": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 93,
+    "y": 0,
+    "sdf": true
+  },
+  "Cave": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 0,
+    "y": 31,
+    "sdf": true
+  },
+  "Lighthouse": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 0,
+    "y": 62,
+    "sdf": true
+  },
+  "MRT": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 0,
+    "y": 93,
+    "sdf": true
+  },
+  "Peak": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 31,
+    "y": 31,
+    "sdf": true
+  },
+  "Shelter": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 62,
+    "y": 31,
+    "sdf": true
+  },
+  "Star": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 93,
+    "y": 31,
+    "sdf": true
+  },
+  "Supplies": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 31,
+    "y": 62,
+    "sdf": true
+  },
+  "Toilet": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 31,
+    "y": 93,
+    "sdf": true
+  },
+  "Water": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 62,
+    "y": 62,
+    "sdf": true
+  },
+  "Waterfall": {
+    "height": 31,
+    "pixelRatio": 1,
+    "width": 31,
+    "x": 93,
+    "y": 62,
     "sdf": true
   }
 }
