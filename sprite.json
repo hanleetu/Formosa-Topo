@@ -1,114 +1,146 @@
 {
   "Binoculars": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
+    "width": 18,
     "x": 0,
     "y": 0,
     "sdf": true
   },
   "Bus": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 31,
-    "y": 0,
+    "width": 18,
+    "x": 0,
+    "y": 18,
     "sdf": true
   },
   "Cabin": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 62,
-    "y": 0,
+    "width": 18,
+    "x": 0,
+    "y": 36,
     "sdf": true
   },
   "Campsite": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 93,
+    "width": 18,
+    "x": 18,
     "y": 0,
     "sdf": true
   },
   "Cave": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 0,
-    "y": 31,
+    "width": 18,
+    "x": 18,
+    "y": 18,
+    "sdf": true
+  },
+  "Guanyinstone": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 18,
+    "y": 36,
     "sdf": true
   },
   "Lighthouse": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 0,
-    "y": 62,
+    "width": 18,
+    "x": 36,
+    "y": 0,
     "sdf": true
   },
   "MRT": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 0,
-    "y": 93,
+    "width": 18,
+    "x": 36,
+    "y": 18,
     "sdf": true
   },
   "Peak": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 31,
-    "y": 31,
+    "width": 18,
+    "x": 36,
+    "y": 36,
     "sdf": true
   },
   "Shelter": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 62,
-    "y": 31,
+    "width": 18,
+    "x": 54,
+    "y": 0,
     "sdf": true
   },
   "Star": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 93,
-    "y": 31,
+    "width": 18,
+    "x": 54,
+    "y": 18,
     "sdf": true
   },
   "Supplies": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 31,
-    "y": 62,
+    "width": 18,
+    "x": 54,
+    "y": 36,
     "sdf": true
   },
   "Toilet": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 31,
-    "y": 93,
+    "width": 18,
+    "x": 72,
+    "y": 0,
+    "sdf": true
+  },
+  "Train": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 90,
+    "y": 0,
+    "sdf": true
+  },
+  "Tree": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 108,
+    "y": 0,
     "sdf": true
   },
   "Water": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 62,
-    "y": 62,
+    "width": 18,
+    "x": 72,
+    "y": 18,
     "sdf": true
   },
   "Waterfall": {
-    "height": 31,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 31,
-    "x": 93,
-    "y": 62,
+    "width": 18,
+    "x": 72,
+    "y": 36,
+    "sdf": true
+  },
+  "Worship": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 90,
+    "y": 18,
     "sdf": true
   }
 }
