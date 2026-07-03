@@ -1,0 +1,170 @@
+{
+  "Bicycle": {
+    "height": 1030,
+    "pixelRatio": 2,
+    "width": 1030,
+    "x": 0,
+    "y": 0,
+    "sdf": true
+  },
+  "Binoculars": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1072,
+    "y": 0,
+    "sdf": true
+  },
+  "Bus": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1102,
+    "y": 0,
+    "sdf": true
+  },
+  "Cabin": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1132,
+    "y": 0,
+    "sdf": true
+  },
+  "Campsite": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1162,
+    "y": 0,
+    "sdf": true
+  },
+  "Cave": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1192,
+    "y": 0,
+    "sdf": true
+  },
+  "Guanyinstone": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1222,
+    "y": 0,
+    "sdf": true
+  },
+  "Hot springs": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1252,
+    "y": 0,
+    "sdf": true
+  },
+  "Lighthouse": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1282,
+    "y": 0,
+    "sdf": true
+  },
+  "MRT": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 1030,
+    "y": 0,
+    "sdf": true
+  },
+  "Peak": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1312,
+    "y": 0,
+    "sdf": true
+  },
+  "Shelter": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1342,
+    "y": 0,
+    "sdf": true
+  },
+  "Star": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1372,
+    "y": 0,
+    "sdf": true
+  },
+  "Supplies": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1402,
+    "y": 0,
+    "sdf": true
+  },
+  "Toilet": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1432,
+    "y": 0,
+    "sdf": true
+  },
+  "Train": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1462,
+    "y": 0,
+    "sdf": true
+  },
+  "Tree": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1492,
+    "y": 0,
+    "sdf": true
+  },
+  "Warning": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1522,
+    "y": 0,
+    "sdf": true
+  },
+  "Water": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1552,
+    "y": 0,
+    "sdf": true
+  },
+  "Waterfall": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1582,
+    "y": 0,
+    "sdf": true
+  },
+  "Worship": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 1612,
+    "y": 0,
+    "sdf": true
+  }
+}
