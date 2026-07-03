@@ -1,5 +1,5 @@
 {
-  "Supplies": {
+  "Toilet": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -7,20 +7,12 @@
     "y": 0,
     "sdf": true
   },
-  "Toilet": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 30,
-    "y": 0,
-    "sdf": true
-  },
   "Train": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
-    "y": 0,
+    "x": 0,
+    "y": 30,
     "sdf": true
   },
   "Tram": {
@@ -35,7 +27,7 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
+    "x": 30,
     "y": 0,
     "sdf": true
   },
@@ -43,31 +35,23 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 0,
+    "x": 30,
     "y": 30,
-    "sdf": true
-  },
-  "Warning": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 0,
-    "y": 60,
     "sdf": true
   },
   "Water": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 0,
-    "y": 90,
+    "x": 60,
+    "y": 0,
     "sdf": true
   },
   "Waterfall": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
+    "x": 60,
     "y": 30,
     "sdf": true
   },
@@ -75,8 +59,8 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
-    "y": 30,
+    "x": 90,
+    "y": 0,
     "sdf": true
   }
 }
