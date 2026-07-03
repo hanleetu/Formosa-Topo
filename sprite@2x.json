@@ -7,19 +7,11 @@
     "y": 0,
     "sdf": true
   },
-  "Star": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 30,
-    "y": 0,
-    "sdf": true
-  },
   "Supplies": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
+    "x": 30,
     "y": 0,
     "sdf": true
   },
@@ -27,7 +19,7 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
+    "x": 60,
     "y": 0,
     "sdf": true
   },
@@ -35,8 +27,8 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 0,
-    "y": 30,
+    "x": 90,
+    "y": 0,
     "sdf": true
   },
   "Tram": {
@@ -44,7 +36,7 @@
     "pixelRatio": 2,
     "width": 28,
     "x": 30,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Tree": {
@@ -52,7 +44,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 0,
-    "y": 60,
+    "y": 30,
     "sdf": true
   },
   "Viewpoint": {
@@ -60,22 +52,22 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 0,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Warning": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 30,
+    "x": 0,
+    "y": 90,
     "sdf": true
   },
   "Water": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
+    "x": 30,
     "y": 30,
     "sdf": true
   },
@@ -83,7 +75,7 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
+    "x": 60,
     "y": 30,
     "sdf": true
   },
@@ -91,8 +83,8 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 60,
+    "x": 90,
+    "y": 30,
     "sdf": true
   }
 }

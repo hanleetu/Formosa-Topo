@@ -7,7 +7,7 @@
     "y": 0,
     "sdf": true
   },
-  "Star": {
+  "Supplies": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -15,20 +15,12 @@
     "y": 18,
     "sdf": true
   },
-  "Supplies": {
+  "Toilet": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 0,
     "y": 36,
-    "sdf": true
-  },
-  "Toilet": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 18,
-    "y": 0,
     "sdf": true
   },
   "Train": {
@@ -36,7 +28,7 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 18,
-    "y": 18,
+    "y": 0,
     "sdf": true
   },
   "Tram": {
@@ -44,7 +36,7 @@
     "pixelRatio": 1,
     "width": 17,
     "x": 54,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Tree": {
@@ -52,15 +44,15 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 18,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Viewpoint": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
-    "y": 0,
+    "x": 18,
+    "y": 36,
     "sdf": true
   },
   "Warning": {
@@ -68,7 +60,7 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 36,
-    "y": 18,
+    "y": 0,
     "sdf": true
   },
   "Water": {
@@ -76,15 +68,15 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 36,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Waterfall": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 54,
-    "y": 0,
+    "x": 36,
+    "y": 36,
     "sdf": true
   },
   "Worship": {
@@ -92,7 +84,7 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 54,
-    "y": 18,
+    "y": 0,
     "sdf": true
   }
 }
