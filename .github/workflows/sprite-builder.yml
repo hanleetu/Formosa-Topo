@@ -1,8 +1,9 @@
 name: Build Sprites
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+    paths:
+      - '**.svg'
 
 jobs:
   build:
