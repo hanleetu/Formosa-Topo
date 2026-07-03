@@ -14,13 +14,5 @@
     "x": 30,
     "y": 0,
     "sdf": true
-  },
-  "Tram": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 28,
-    "x": 0,
-    "y": 30,
-    "sdf": true
   }
 }
