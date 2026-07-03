@@ -1,18 +1,10 @@
 {
-  "Hot springs": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 0,
-    "y": 24,
-    "sdf": true
-  },
   "Lighthouse": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 0,
-    "y": 42,
+    "y": 24,
     "sdf": true
   },
   "MRT": {
@@ -27,8 +19,8 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
-    "y": 24,
+    "x": 0,
+    "y": 42,
     "sdf": true
   },
   "Pharmacy": {
@@ -36,10 +28,18 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 18,
-    "y": 42,
+    "y": 24,
     "sdf": true
   },
   "Shelter": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 18,
+    "y": 42,
+    "sdf": true
+  },
+  "Star": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -47,7 +47,7 @@
     "y": 0,
     "sdf": true
   },
-  "Star": {
+  "Supplies": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -55,7 +55,7 @@
     "y": 18,
     "sdf": true
   },
-  "Supplies": {
+  "Toilet": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -63,7 +63,7 @@
     "y": 0,
     "sdf": true
   },
-  "Toilet": {
+  "Train": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -71,7 +71,15 @@
     "y": 36,
     "sdf": true
   },
-  "Train": {
+  "Tram": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 90,
+    "y": 18,
+    "sdf": true
+  },
+  "Tree": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -79,15 +87,7 @@
     "y": 18,
     "sdf": true
   },
-  "Tram": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 17,
-    "x": 96,
-    "y": 0,
-    "sdf": true
-  },
-  "Tree": {
+  "Viewpoint": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -95,7 +95,7 @@
     "y": 0,
     "sdf": true
   },
-  "Viewpoint": {
+  "Warning": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -103,7 +103,7 @@
     "y": 36,
     "sdf": true
   },
-  "Warning": {
+  "Water": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -111,7 +111,7 @@
     "y": 18,
     "sdf": true
   },
-  "Water": {
+  "Waterfall": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -119,20 +119,12 @@
     "y": 0,
     "sdf": true
   },
-  "Waterfall": {
+  "Worship": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 72,
     "y": 36,
-    "sdf": true
-  },
-  "Worship": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 90,
-    "y": 18,
     "sdf": true
   }
 }
