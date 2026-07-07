@@ -1,18 +1,10 @@
 {
-  "Cave": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 0,
-    "y": 0,
-    "sdf": true
-  },
   "Guanyinstone": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 0,
-    "y": 18,
+    "y": 0,
     "sdf": true
   },
   "Lighthouse": {
@@ -20,15 +12,15 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 0,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "MRT": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
-    "y": 0,
+    "x": 0,
+    "y": 36,
     "sdf": true
   },
   "Peak": {
@@ -36,7 +28,7 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 18,
-    "y": 18,
+    "y": 0,
     "sdf": true
   },
   "Shelter": {
@@ -44,15 +36,15 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 18,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Star": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
-    "y": 0,
+    "x": 18,
+    "y": 36,
     "sdf": true
   },
   "Supplies": {
@@ -60,7 +52,7 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 36,
-    "y": 18,
+    "y": 0,
     "sdf": true
   },
   "Toilet": {
@@ -68,15 +60,15 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 36,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Train": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 54,
-    "y": 0,
+    "x": 36,
+    "y": 36,
     "sdf": true
   },
   "Tree": {
@@ -84,7 +76,7 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 54,
-    "y": 18,
+    "y": 0,
     "sdf": true
   },
   "Water": {
@@ -92,22 +84,22 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 54,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Waterfall": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 72,
-    "y": 0,
+    "x": 54,
+    "y": 36,
     "sdf": true
   },
   "Worship": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 90,
+    "x": 72,
     "y": 0,
     "sdf": true
   }
