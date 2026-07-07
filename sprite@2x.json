@@ -1,26 +1,18 @@
 {
-  "Supplies": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 0,
-    "y": 0,
-    "sdf": true
-  },
   "Toilet": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
     "x": 0,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Train": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 0,
+    "x": 0,
+    "y": 30,
     "sdf": true
   },
   "Tree": {
@@ -28,15 +20,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 30,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Water": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
-    "y": 0,
+    "x": 30,
+    "y": 30,
     "sdf": true
   },
   "Waterfall": {
@@ -44,15 +36,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 60,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Worship": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
-    "y": 0,
+    "x": 60,
+    "y": 30,
     "sdf": true
   }
 }
