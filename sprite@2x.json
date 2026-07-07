@@ -1,18 +1,10 @@
 {
-  "Binoculars": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 0,
-    "y": 0,
-    "sdf": true
-  },
   "Bus": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
     "x": 0,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Cabin": {
@@ -20,7 +12,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 0,
-    "y": 60,
+    "y": 30,
     "sdf": true
   },
   "Campsite": {
@@ -28,15 +20,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 0,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Cave": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 0,
+    "x": 0,
+    "y": 90,
     "sdf": true
   },
   "Guanyinstone": {
@@ -44,7 +36,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 30,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Lighthouse": {
@@ -52,7 +44,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 30,
-    "y": 60,
+    "y": 30,
     "sdf": true
   },
   "MRT": {
@@ -60,15 +52,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 30,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Peak": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
-    "y": 0,
+    "x": 30,
+    "y": 90,
     "sdf": true
   },
   "Shelter": {
@@ -76,7 +68,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 60,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Star": {
@@ -84,7 +76,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 60,
-    "y": 60,
+    "y": 30,
     "sdf": true
   },
   "Supplies": {
@@ -92,15 +84,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 60,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Toilet": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
-    "y": 0,
+    "x": 60,
+    "y": 90,
     "sdf": true
   },
   "Train": {
@@ -108,7 +100,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 90,
-    "y": 30,
+    "y": 0,
     "sdf": true
   },
   "Tree": {
@@ -116,7 +108,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 90,
-    "y": 60,
+    "y": 30,
     "sdf": true
   },
   "Water": {
@@ -124,15 +116,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 90,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Waterfall": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 120,
-    "y": 0,
+    "x": 90,
+    "y": 90,
     "sdf": true
   },
   "Worship": {
@@ -140,7 +132,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 120,
-    "y": 30,
+    "y": 0,
     "sdf": true
   }
 }
