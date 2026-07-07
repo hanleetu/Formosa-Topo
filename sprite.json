@@ -1,18 +1,10 @@
 {
-  "Campsite": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 0,
-    "y": 0,
-    "sdf": true
-  },
   "Cave": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
     "x": 0,
-    "y": 18,
+    "y": 0,
     "sdf": true
   },
   "Guanyinstone": {
@@ -20,15 +12,15 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 0,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Lighthouse": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
-    "y": 0,
+    "x": 0,
+    "y": 36,
     "sdf": true
   },
   "MRT": {
@@ -36,7 +28,7 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 18,
-    "y": 18,
+    "y": 0,
     "sdf": true
   },
   "Peak": {
@@ -44,15 +36,15 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 18,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Shelter": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
-    "y": 0,
+    "x": 18,
+    "y": 36,
     "sdf": true
   },
   "Star": {
@@ -60,7 +52,7 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 36,
-    "y": 18,
+    "y": 0,
     "sdf": true
   },
   "Supplies": {
@@ -68,15 +60,15 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 36,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Toilet": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 54,
-    "y": 0,
+    "x": 36,
+    "y": 36,
     "sdf": true
   },
   "Train": {
@@ -84,7 +76,7 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 54,
-    "y": 18,
+    "y": 0,
     "sdf": true
   },
   "Tree": {
@@ -92,10 +84,18 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 54,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Water": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 54,
+    "y": 36,
+    "sdf": true
+  },
+  "Waterfall": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
@@ -103,19 +103,11 @@
     "y": 0,
     "sdf": true
   },
-  "Waterfall": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 90,
-    "y": 0,
-    "sdf": true
-  },
   "Worship": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 108,
+    "x": 90,
     "y": 0,
     "sdf": true
   }
