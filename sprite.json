@@ -1,17 +1,9 @@
 {
-  "Waterfall": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 0,
-    "y": 0,
-    "sdf": true
-  },
   "Worship": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
+    "x": 0,
     "y": 0,
     "sdf": true
   }
