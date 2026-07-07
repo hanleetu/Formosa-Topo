@@ -1,17 +1,9 @@
 {
-  "Tree": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 0,
-    "y": 0,
-    "sdf": true
-  },
   "Water": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
+    "x": 0,
     "y": 0,
     "sdf": true
   },
@@ -19,7 +11,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
+    "x": 18,
     "y": 0,
     "sdf": true
   },
@@ -27,8 +19,8 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 0,
-    "y": 18,
+    "x": 36,
+    "y": 0,
     "sdf": true
   }
 }
