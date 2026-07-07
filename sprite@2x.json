@@ -1,17 +1,9 @@
 {
-  "Guanyinstone": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 0,
-    "y": 0,
-    "sdf": true
-  },
   "Lighthouse": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
+    "x": 0,
     "y": 0,
     "sdf": true
   },
@@ -19,7 +11,7 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
+    "x": 30,
     "y": 0,
     "sdf": true
   },
@@ -27,7 +19,7 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
+    "x": 60,
     "y": 0,
     "sdf": true
   },
@@ -35,8 +27,8 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 0,
-    "y": 30,
+    "x": 90,
+    "y": 0,
     "sdf": true
   },
   "Star": {
@@ -44,7 +36,7 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 0,
-    "y": 60,
+    "y": 30,
     "sdf": true
   },
   "Supplies": {
@@ -52,22 +44,22 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 0,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Toilet": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 30,
+    "x": 0,
+    "y": 90,
     "sdf": true
   },
   "Train": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
+    "x": 30,
     "y": 30,
     "sdf": true
   },
@@ -75,7 +67,7 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
+    "x": 60,
     "y": 30,
     "sdf": true
   },
@@ -83,8 +75,8 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 60,
+    "x": 90,
+    "y": 30,
     "sdf": true
   },
   "Waterfall": {
@@ -92,15 +84,15 @@
     "pixelRatio": 2,
     "width": 30,
     "x": 30,
-    "y": 90,
+    "y": 60,
     "sdf": true
   },
   "Worship": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
-    "y": 60,
+    "x": 30,
+    "y": 90,
     "sdf": true
   }
 }
