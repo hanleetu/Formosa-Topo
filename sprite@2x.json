@@ -1,5 +1,5 @@
 {
-  "Bus": {
+  "Cabin": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
@@ -7,35 +7,27 @@
     "y": 0,
     "sdf": true
   },
-  "Cabin": {
-    "height": 30,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 0,
-    "y": 30,
-    "sdf": true
-  },
   "Campsite": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 0,
-    "y": 60,
+    "x": 30,
+    "y": 0,
     "sdf": true
   },
   "Cave": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 0,
-    "y": 90,
+    "x": 60,
+    "y": 0,
     "sdf": true
   },
   "Guanyinstone": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
+    "x": 90,
     "y": 0,
     "sdf": true
   },
@@ -43,7 +35,7 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
+    "x": 0,
     "y": 30,
     "sdf": true
   },
@@ -51,7 +43,7 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
+    "x": 0,
     "y": 60,
     "sdf": true
   },
@@ -59,7 +51,7 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
+    "x": 0,
     "y": 90,
     "sdf": true
   },
@@ -67,8 +59,8 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
-    "y": 0,
+    "x": 30,
+    "y": 30,
     "sdf": true
   },
   "Star": {
@@ -83,32 +75,32 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
-    "y": 60,
+    "x": 90,
+    "y": 30,
     "sdf": true
   },
   "Toilet": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
-    "y": 90,
+    "x": 30,
+    "y": 60,
     "sdf": true
   },
   "Train": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
-    "y": 0,
+    "x": 30,
+    "y": 90,
     "sdf": true
   },
   "Tree": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
-    "y": 30,
+    "x": 60,
+    "y": 60,
     "sdf": true
   },
   "Water": {
@@ -123,7 +115,7 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
+    "x": 60,
     "y": 90,
     "sdf": true
   },
@@ -131,8 +123,8 @@
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 120,
-    "y": 0,
+    "x": 90,
+    "y": 90,
     "sdf": true
   }
 }
