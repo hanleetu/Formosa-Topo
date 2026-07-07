@@ -1,17 +1,9 @@
 {
-  "Shelter": {
-    "height": 18,
-    "pixelRatio": 1,
-    "width": 18,
-    "x": 0,
-    "y": 0,
-    "sdf": true
-  },
   "Star": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
+    "x": 0,
     "y": 0,
     "sdf": true
   },
@@ -19,7 +11,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
+    "x": 18,
     "y": 0,
     "sdf": true
   },
@@ -27,8 +19,8 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 0,
-    "y": 18,
+    "x": 36,
+    "y": 0,
     "sdf": true
   },
   "Train": {
@@ -36,22 +28,22 @@
     "pixelRatio": 1,
     "width": 18,
     "x": 0,
-    "y": 36,
+    "y": 18,
     "sdf": true
   },
   "Tree": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
-    "y": 18,
+    "x": 0,
+    "y": 36,
     "sdf": true
   },
   "Water": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
+    "x": 18,
     "y": 18,
     "sdf": true
   },
@@ -59,15 +51,15 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 18,
-    "y": 36,
+    "x": 36,
+    "y": 18,
     "sdf": true
   },
   "Worship": {
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 36,
+    "x": 18,
     "y": 36,
     "sdf": true
   }
