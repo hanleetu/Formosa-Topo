@@ -4,25 +4,21 @@ on:
     branches: [main]
     paths:
       - '**.svg'
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-
       - name: Install Spreet (Sprite Packer)
         run: |
           wget https://github.com/flother/spreet/releases/download/v0.11.0/spreet-x86_64-unknown-linux-musl.tar.gz
           tar -xvf spreet-x86_64-unknown-linux-musl.tar.gz
           sudo mv spreet /usr/local/bin/
-
       - name: Pack SVGs into Sprites
         run: |
-          spreet --sdf . sprite
-          spreet --retina --sdf . sprite@2x
-
+          spreet . sprite
+          spreet --retina . sprite@2x
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
