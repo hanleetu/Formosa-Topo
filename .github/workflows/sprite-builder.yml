@@ -17,8 +17,8 @@ jobs:
           sudo mv spreet /usr/local/bin/
       - name: Pack SVGs into Sprites
         run: |
-          spreet . sprite
-          spreet --retina . sprite@2x
+          spreet --padding 4 . sprite
+          spreet --retina --padding 4 . sprite@2x
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
