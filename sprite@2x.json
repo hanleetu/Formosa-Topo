@@ -1,16 +1,16 @@
 {
   "Bus": {
-    "height": 36,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 36,
+    "width": 48,
     "x": 0,
     "y": 0
   },
   "Waterfall": {
-    "height": 36,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 36,
-    "x": 36,
+    "width": 48,
+    "x": 48,
     "y": 0
   }
 }
