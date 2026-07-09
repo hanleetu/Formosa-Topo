@@ -1,9 +1,16 @@
 {
-  "Waterfall": {
+  "Bus": {
     "height": 36,
     "pixelRatio": 2,
     "width": 36,
     "x": 0,
+    "y": 0
+  },
+  "Waterfall": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 36,
     "y": 0
   }
 }
