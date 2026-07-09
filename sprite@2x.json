@@ -4,13 +4,34 @@
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
-    "y": 0
+    "y": 60
   },
-  "Waterfall": {
+  "Peak": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
+    "y": 60
+  },
+  "Tree": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 60,
+    "y": 0
+  },
+  "Water": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 96,
+    "y": 0
+  },
+  "Waterfall": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 0,
     "y": 0
   }
 }
