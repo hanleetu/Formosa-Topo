@@ -1,8 +1,8 @@
 {
-  "Worship": {
-    "height": 18,
+  "Waterfall": {
+    "height": 24,
     "pixelRatio": 1,
-    "width": 18,
+    "width": 24,
     "x": 0,
     "y": 0,
     "sdf": true
