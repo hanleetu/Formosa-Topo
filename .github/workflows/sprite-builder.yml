@@ -17,10 +17,13 @@ jobs:
           sudo mv spreet /usr/local/bin/
       - name: Pack SVGs into Sprites
         run: |
-          spreet --padding 4 . sprite
-          spreet --retina --padding 4 . sprite@2x
+          spreet . sprite
+          spreet --retina . sprite@2x
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
+
+
+Where do I add that code?
