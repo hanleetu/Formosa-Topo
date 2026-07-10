@@ -1,37 +1,128 @@
 {
-  "Bus": {
+  "Binoculars": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 0,
     "y": 0
+  },
+  "Bus": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 24,
+    "y": 0
+  },
+  "Cabin": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 48,
+    "y": 0
+  },
+  "Campsite": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 72,
+    "y": 0
+  },
+  "Cave": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 96,
+    "y": 0
+  },
+  "Guanyinstone": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 0,
+    "y": 24
+  },
+  "Lighthouse": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 0,
+    "y": 48
+  },
+  "Metro": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 0,
+    "y": 72
   },
   "Peak": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
+    "x": 0,
+    "y": 96
+  },
+  "Shelter": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
     "x": 24,
-    "y": 0
+    "y": 24
+  },
+  "Star": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 48,
+    "y": 24
+  },
+  "Supplies": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 72,
+    "y": 24
+  },
+  "Toilet": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 96,
+    "y": 24
+  },
+  "Train": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 24,
+    "y": 48
   },
   "Tree": {
-    "height": 18,
+    "height": 24,
     "pixelRatio": 1,
-    "width": 18,
+    "width": 24,
     "x": 24,
-    "y": 24
+    "y": 72
   },
   "Water": {
-    "height": 18,
+    "height": 24,
     "pixelRatio": 1,
-    "width": 18,
-    "x": 42,
-    "y": 24
+    "width": 24,
+    "x": 24,
+    "y": 96
   },
   "Waterfall": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 0,
-    "y": 24
+    "x": 48,
+    "y": 48
+  },
+  "Worship": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 72,
+    "y": 48
   }
 }

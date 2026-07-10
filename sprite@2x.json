@@ -1,37 +1,128 @@
 {
-  "Bus": {
+  "Binoculars": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
     "y": 0
+  },
+  "Bus": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 0
+  },
+  "Cabin": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 0
+  },
+  "Campsite": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 144,
+    "y": 0
+  },
+  "Cave": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 192,
+    "y": 0
+  },
+  "Guanyinstone": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 48
+  },
+  "Lighthouse": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 96
+  },
+  "Metro": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 144
   },
   "Peak": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
+    "x": 0,
+    "y": 192
+  },
+  "Shelter": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
     "x": 48,
-    "y": 0
+    "y": 48
+  },
+  "Star": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 48
+  },
+  "Supplies": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 144,
+    "y": 48
+  },
+  "Toilet": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 192,
+    "y": 48
+  },
+  "Train": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 96
   },
   "Tree": {
-    "height": 36,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 36,
+    "width": 48,
     "x": 48,
-    "y": 48
+    "y": 144
   },
   "Water": {
-    "height": 36,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 36,
-    "x": 84,
-    "y": 48
+    "width": 48,
+    "x": 48,
+    "y": 192
   },
   "Waterfall": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 0,
-    "y": 48
+    "x": 96,
+    "y": 96
+  },
+  "Worship": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 144,
+    "y": 96
   }
 }
