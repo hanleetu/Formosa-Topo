@@ -62,67 +62,74 @@
     "x": 0,
     "y": 192
   },
-  "Shelter": {
+  "PhoneSignal": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
+    "y": 48
+  },
+  "Shelter": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
     "y": 48
   },
   "Star": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
+    "x": 144,
     "y": 48
   },
   "Supplies": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 144,
+    "x": 192,
     "y": 48
   },
   "Toilet": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 192,
-    "y": 48
+    "x": 48,
+    "y": 96
   },
   "Train": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
-    "y": 96
+    "y": 144
   },
   "Tree": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
-    "y": 144
-  },
-  "Water": {
-    "height": 48,
-    "pixelRatio": 2,
-    "width": 48,
-    "x": 48,
     "y": 192
   },
-  "Waterfall": {
+  "Water": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 96,
     "y": 96
   },
-  "Worship": {
+  "Waterfall": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 144,
+    "y": 96
+  },
+  "Worship": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 192,
     "y": 96
   }
 }
