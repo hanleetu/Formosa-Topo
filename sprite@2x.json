@@ -1,135 +1,149 @@
 {
-  "Binoculars": {
+  "Baiyue": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
+    "y": 0
+  },
+  "Binoculars": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
     "y": 0
   },
   "Bus": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
+    "x": 96,
     "y": 0
   },
   "Cabin": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
+    "x": 144,
     "y": 0
   },
   "Campsite": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 144,
+    "x": 192,
     "y": 0
   },
   "Cave": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 192,
-    "y": 0
+    "x": 0,
+    "y": 48
   },
   "Guanyinstone": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
-    "y": 48
+    "y": 96
   },
   "Lighthouse": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
-    "y": 96
+    "y": 144
   },
   "Metro": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
-    "y": 144
+    "y": 192
   },
   "Peak": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 0,
-    "y": 192
+    "x": 48,
+    "y": 48
   },
   "PhoneSignal": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
+    "x": 96,
     "y": 48
   },
   "Shelter": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
+    "x": 144,
     "y": 48
   },
   "Star": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 144,
+    "x": 192,
     "y": 48
   },
   "Supplies": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 192,
-    "y": 48
+    "x": 48,
+    "y": 96
   },
   "Toilet": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
-    "y": 96
+    "y": 144
   },
   "Train": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
-    "y": 144
-  },
-  "Tree": {
-    "height": 48,
-    "pixelRatio": 2,
-    "width": 48,
-    "x": 48,
     "y": 192
   },
-  "Water": {
+  "Tree": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 96,
     "y": 96
   },
-  "Waterfall": {
+  "Water": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 144,
     "y": 96
   },
-  "Worship": {
+  "Waterfall": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 192,
     "y": 96
+  },
+  "Worship": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 144
+  },
+  "Xiaobaiyue": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 192
   }
 }
