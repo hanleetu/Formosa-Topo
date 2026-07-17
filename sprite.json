@@ -6,151 +6,144 @@
     "x": 0,
     "y": 0
   },
-  "Binoculars": {
-    "height": 24,
-    "pixelRatio": 1,
-    "width": 24,
-    "x": 24,
-    "y": 0
-  },
   "Bus": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 48,
+    "x": 24,
     "y": 0
   },
   "Cabin": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 72,
+    "x": 48,
     "y": 0
   },
   "Campsite": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 96,
+    "x": 72,
     "y": 0
   },
   "Cave": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 0,
-    "y": 24
+    "x": 96,
+    "y": 0
   },
   "Guanyinstone": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 0,
-    "y": 48
+    "y": 24
   },
   "Lighthouse": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 0,
-    "y": 72
+    "y": 48
   },
   "Metro": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 0,
-    "y": 96
+    "y": 72
   },
   "Peak": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 24,
-    "y": 24
+    "x": 0,
+    "y": 96
   },
   "PhoneSignal": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 48,
+    "x": 24,
     "y": 24
   },
   "Ruins": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 72,
+    "x": 48,
     "y": 24
   },
   "Shelter": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 96,
+    "x": 72,
     "y": 24
   },
   "Star": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 24,
-    "y": 48
+    "x": 96,
+    "y": 24
   },
   "Supplies": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 24,
-    "y": 72
+    "y": 48
   },
   "Toilet": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 24,
-    "y": 96
+    "y": 72
   },
   "Train": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 48,
-    "y": 48
+    "x": 24,
+    "y": 96
   },
   "Tree": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 72,
+    "x": 48,
     "y": 48
   },
   "Water": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 96,
+    "x": 72,
     "y": 48
   },
   "Waterfall": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 48,
-    "y": 72
+    "x": 96,
+    "y": 48
   },
   "Worship": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 48,
-    "y": 96
+    "y": 72
   },
   "Xiaobaiyue": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 72,
-    "y": 72
+    "x": 48,
+    "y": 96
   }
 }
