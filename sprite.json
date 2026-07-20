@@ -118,32 +118,39 @@
     "x": 48,
     "y": 48
   },
-  "Water": {
+  "Viewpoint": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 72,
     "y": 48
   },
-  "Waterfall": {
+  "Water": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 96,
     "y": 48
   },
-  "Worship": {
+  "Waterfall": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 48,
     "y": 72
   },
-  "Xiaobaiyue": {
+  "Worship": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 48,
     "y": 96
+  },
+  "Xiaobaiyue": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 72,
+    "y": 72
   }
 }
